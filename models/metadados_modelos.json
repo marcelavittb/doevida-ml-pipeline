@@ -1,0 +1,26 @@
+{
+  "versao": "20260602_1945",
+  "data_treino": "2026-06-02T19:45:36.539327",
+  "n_doadores_treino": 533,
+  "dataset": "UCI Blood Transfusion Service Center",
+  "metricas": {
+    "classificacao_auc": 0.6719,
+    "regressao_r2": 0.9997,
+    "clusterizacao_silhouette": 0.3827,
+    "n_clusters": 2
+  },
+  "segmentos": {
+    "Cluster 0": "Doador Inativo",
+    "Cluster 1": "Doador VIP"
+  },
+  "campanhas": [
+    "Campanha_Urgencia_O_Negativo",
+    "Campanha_Doacao_Regular_Mensal",
+    "Campanha_Semana_do_Doador",
+    "Campanha_Doacao_Hospitais_Publicos",
+    "Campanha_Tipo_A_Positivo",
+    "Campanha_Reativacao_Inativos",
+    "Campanha_Primeira_Doacao",
+    "Campanha_Doador_VIP_Exclusiva"
+  ]
+}
